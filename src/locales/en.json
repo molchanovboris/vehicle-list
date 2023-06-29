@@ -1,0 +1,17 @@
+{
+    "home": {
+        "title": "List of vehicles"
+    },  
+    "vehiclePage": {
+        "title": "Vehicle page",
+        "callButton": "Call",
+        "messageButton": "Message"
+    },
+    "settings": {
+        "title": "Settings"
+    },
+    "nameVehicle": "Name Vehicle",
+    "driverName": "Driver's Name",
+    "typeVehicle": "Type Vehicle",
+    "phoneNumber": "Driver's Phone Number"
+}

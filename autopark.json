@@ -1,0 +1,112 @@
+[
+    {
+        "id": "1",
+        "type": "truck",
+        "driverName": "Igor",
+        "vehicleName": "mercedes",
+        "location": {
+            "latitude": 54.991623213221764,
+            "longitude": 82.77879660493174
+        },
+        "telephoneNumber": "+79010981223"
+    },
+    {
+        "id": "2",
+        "type": "truck",
+        "driverName": "Igor",
+        "vehicleName": "volvo",
+        "location": {
+            "latitude": 55.001634265307715,
+            "longitude": 82.90903089367325
+        },
+        "telephoneNumber": "+79010981223"
+    },
+    {
+        "id": "3",
+        "type": "truck",
+        "driverName": "Igor",
+        "vehicleName": "iveco",
+        "location": {
+            "latitude": 54.9670875032011,
+            "longitude": 82.78907185294207
+        },
+        "telephoneNumber": "+79010981223"
+    },
+    {
+        "id": "4",
+        "type": "passenger",
+        "driverName": "Igor",
+        "vehicleName": "Nissan",
+        "location": {
+            "latitude": 54.963012342101926,
+            "longitude": 82.86137553298022
+        },
+        "telephoneNumber": "+79010981223"
+    },
+    {
+        "id": "5",
+        "type": "passenger",
+        "driverName": "Igor",
+        "vehicleName": "Nissan",
+        "location": {
+            "latitude": 54.96277211846786,
+            "longitude": 82.93952374289188
+        },
+        "telephoneNumber": "+79010981223"
+    },
+    {
+        "id": "6",
+        "type": "passenger",
+        "driverName": "Igor",
+        "vehicleName": "Mazda",
+        "location": {
+            "latitude": 54.96850867418327,
+            "longitude": 83.00479404600183
+        },
+        "telephoneNumber": "+79010981223"
+    },
+    {
+        "id": "7",
+        "type": "passenger",
+        "driverName": "Igor",
+        "vehicleName": "Mitsubishi",
+        "location": {
+            "latitude": 55.00684174007623,
+            "longitude": 83.07122438755815
+        },
+        "telephoneNumber": "+79010981223"
+    },
+    {
+        "id": "8",
+        "type": "special",
+        "driverName": "Igor",
+        "vehicleName": "Claas",
+        "location": {
+            "latitude": 54.99740361655693,
+            "longitude": 83.06387255353921
+        },
+        "telephoneNumber": "+79010981223"
+    },
+    {
+        "id": "9",
+        "type": "special",
+        "driverName": "Igor",
+        "vehicleName": "CAT",
+        "location": {
+            "latitude": 54.99295274947128,
+            "longitude": 83.05433554134984
+        },
+        "telephoneNumber": "+79010981223"
+    },
+    {
+        "id": "10",
+        "type": "special",
+        "driverName": "Igor",
+        "vehicleName": "Lamborghini",
+        "location": {
+            "latitude": 54.993384030225585,
+            "longitude": 83.03633440235578
+        },
+        "telephoneNumber": "+79010981223"
+    }
+]

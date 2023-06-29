@@ -1,0 +1,17 @@
+{
+    "home": {
+        "title": "Список траснспортных средств"
+    },
+    "vehiclePage": {
+        "title": "Страница ТС",
+        "callButton": "Позвонить",
+        "messageButton": "Написать"
+    },
+    "settings": {
+        "title": "Настройки"
+    },
+    "nameVehicle": "Название ТС",
+    "driverName": "Имя водителя",
+    "typeVehicle": "Категория ТС",
+    "phoneNumber": "Контактный номер водителя"
+}
